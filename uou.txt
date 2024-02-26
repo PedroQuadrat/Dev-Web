@@ -1,0 +1,10 @@
+
+vs code- "https://code.visualstudio.com/"
+
+pyton- "https://www.python.org/"
+
+java- "https://www.java.com/pt-BR/"
+
+apache http- "https://httpd.apache.org/"
+
+nginx - "https://www.nginx.com/"
